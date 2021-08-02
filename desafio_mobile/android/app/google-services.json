@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224934535089",
+    "project_id": "desafio-mobile-bycoders",
+    "storage_bucket": "desafio-mobile-bycoders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224934535089:android:92d75a15263c25eb48a790",
+        "android_client_info": {
+          "package_name": "com.fabegalo.desafio_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224934535089-2o2hdstbjgc864ollutepsd5oc8454o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjxbHeqwDj2i2Avw0jZoFdB_c0ymjfI0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224934535089-2o2hdstbjgc864ollutepsd5oc8454o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
